@@ -17,3 +17,6 @@ Wintermute likes to be recorded, because it always sound different and probably 
 Wintermute has reached maturity and it´s releasing in version 1.0, but as the outputs of the machine itself, will evolve with different firmwares taking different branches and structures of creation, as the possibilities of expanding and muting how you play it are vasts and infinites and we love to give quite different firmwares to every machine. The coming versions will be free for customers as long as we don't rewrite the code from the ground and produce a totally different animal.
 
 You better listen to the video demos to grasp an idea.
+
+
+https://www.youtube.com/watch?v=HsA_6lbPiLU
