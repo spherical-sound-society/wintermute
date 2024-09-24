@@ -1,22 +1,24 @@
 You can order WINTERMUTE in our Tindie and webpage:
 
 
-sphericalsoundsociety.com
+https://www.sphericalsoundsociety.com
 
 https://www.tindie.com/products/jc2046/wintermute/
 
 
-Wintermute is a strange machine difficult to describe. It sits between a Drum Machine, a Groove Box and an experimental generative synth. It´s difficult to describe but easy to play and get unique sounding loops, crescendos and even whole sessions just from the machine.
+Wintermute is a strange machine, difficult to define. It sits somewhere between a drum machine, a groove box, and an experimental generative synth. While it's hard to describe, it's easy to play and can effortlessly produce unique-sounding loops, crescendos, and even entire sessions.
 
-The heart is a 4 Operators FM engine, based on some great Yamaha old chips from Arcade machines and consoles, but with a lot of twists and licences. So it sounds kind of retro and avant-garde at the same time while sounding totally different to probably any other synth. It has a clear personal mark and ultimately it sounds totally as itself.
+At its core is a 4-Operator FM engine, inspired by classic Yamaha chips from arcade machines and consoles, but with many creative twists and liberties. As a result, it sounds both retro and avant-garde, yet distinctly different from any other synth. It has a clear, personal character, and ultimately, it sounds uniquely like itself.
 
-The engine has multiple sequencers running and collapsing one versus another, using totally original algoridtms that mute, recombine and change constantly to offer fresh outputs. It´s not about playing what you want, but to discover and explore gazillions of possibilities, strange sonic landscapes and happy accidents.
+The engine features multiple sequencers running and interacting, using original algorithms that mute, recombine, and evolve constantly, delivering fresh output. It's not about playing exactly what you want but about discovering and exploring countless possibilities—strange sonic landscapes and happy accidents.
 
-Wintermute likes to be recorded, because it always sound different and probably what you are listening now is pretty much only hear this time and will be never repeated. The cool thing is that it doesnt not use randomization. It´s all algorithmic, but the possibilities change and recombine constantly with every turn of the pots therefore is pretty much irrepetible.
+Wintermute is made to be recorded, as it always sounds different, and what you're hearing now is likely a one-time experience that won't be repeated. The fascinating part is that it doesn't rely on randomization. Everything is algorithmic, but the possibilities change and recombine with each turn of the knobs, making it nearly impossible to recreate the same sound.
 
-Wintermute has reached maturity and it´s releasing in version 1.0, but as the outputs of the machine itself, will evolve with different firmwares taking different branches and structures of creation, as the possibilities of expanding and muting how you play it are vasts and infinites and we love to give quite different firmwares to every machine. The coming versions will be free for customers as long as we don't rewrite the code from the ground and produce a totally different animal.
+Wintermute has now reached maturity with the release of version 1.0. However, like the machine’s output, it will evolve through different firmware updates, branching into new creative structures. The potential to expand and reshape how you play it is vast and endless. We take pride in offering distinct firmware versions for each machine. Future updates will be free for customers, provided we don’t completely rewrite the code and turn it into something entirely new.
 
-You better listen to the video demos to grasp an idea.
+Check out the video demos to get a better sense of what it can do.
+
+
 
 
 https://www.youtube.com/watch?v=HsA_6lbPiLU
